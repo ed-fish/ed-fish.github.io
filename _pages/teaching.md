@@ -2,10 +2,38 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching history
 nav: true
 ---
+### Academic
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+DMA Introduction to Programming - University of Surrey
+Wrote and taught the introductory undergraduate module in JavaScript.
 
-Organize your courses by years, topics, or universities, however you like!
+### Corporate
+
+Coding for Designers - (Sky Sports, Fluxx)
+A course I developed to improve technical literacy of creative teams and improve dialogue with technical partners. 
+
+Unreal Engine for Architects (D-Lab, K-F-M)
+Introductory workshop on Unreal Engine for architectural visualisation.
+
+Unreal Engine for AR/XR (D-Lab, K-F-M) 
+Architectural visualisation workshop using AR in Unreal Engine
+
+### Community
+
+Throughout 2017-2019 I taught a large number of coding, robotics, and games development courses as part of my work with a number of social enterprises and schools in London. These included introductory classes in Python, C#, Robotics (Arduino), Creative Coding (Processing, P5.js), front-end web development (HTML, CSS, JS), and augmented reality (Three.js, Unity). 
+
+
+
+
+
+
+
+
+
+
+
+
+
