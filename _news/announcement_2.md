@@ -5,5 +5,5 @@ date: 2015-11-07 16:11:00-0400
 inline: true
 ---
 
-Our latest MMX-Trailer 20 Dataset to be published at ICIP 2021. The largest movie trailer dataset to date!
+Our latest MMX-Trailer 20 Dataset will be released shortly. The largest movie dataset to date with pre-computed expert embeddings for audio, motion, scene, and object detection. 
 
