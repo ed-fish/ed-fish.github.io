@@ -22,3 +22,5 @@ Before my PhD I worked as a creative technologist and educator, working with com
 
 I'm currently applying for internships for next summer (2022) and am especially interested in companies working on creative applications of ML or research groups specialising in video understanding.
 
+**I am currently working on this site so please check back later for updated projects, current CV, and Blog. Please Email me with any questions in the meantime.**
+
