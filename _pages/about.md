@@ -20,5 +20,5 @@ Hello 👋. I'm a second year PhD student at the University of Surrey UK, workin
 
 Before my PhD I worked as a creative technologist and educator, working with companies and institutions such as [Foster & Partners](https://www.fosterandpartners.com/), [Sky](https://www.sky.com/), [Grimshaw](https://grimshaw.global/), [University of East London](https://www.uel.ac.uk/), and [Mayor of London](https://www.london.gov.uk/) developing creative tech initiatives with communities under represented in the tech industry. In 2019 I was elected as a fellow of the Royal Society of the Arts [(FRSA)](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Arts) in recognition of my commitment to positive social change.  
 
-I'm currently looking for internship opportunities for next summer (2022) and am especially interested in companies working on creative applications of ML, policy and impact of ML technologies, or research groups specialising in video understanding.
+I'm currently applying for internships for next summer (2022) and am especially interested in companies working on creative applications of ML or research groups specialising in video understanding.
 
