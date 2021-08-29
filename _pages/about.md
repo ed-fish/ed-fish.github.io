@@ -10,8 +10,7 @@ profile:
   address: >
     <p>13NC01</p>
     <p>University of Surrey</p>
-    <p>Guildford, GU2 7XH
-</p>
+    <p>Guildford, GU2 7XH</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
