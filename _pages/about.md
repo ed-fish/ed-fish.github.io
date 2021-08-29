@@ -6,7 +6,7 @@ description:  PhD Student in Machine Learning at the University of Surrey, UK.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me2.jpg
   address: >
     <p>13NC01</p>
     <p>University of Surrey</p>
