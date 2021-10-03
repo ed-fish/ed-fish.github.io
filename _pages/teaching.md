@@ -19,11 +19,11 @@ Wrote and taught the introductory undergraduate module in JavaScript.
 
 A course I developed to improve technical literacy of creative teams and improve dialogue with technical partners.
 
-**Unreal Engine for Architects (D-Lab, K-F-M)**
+**Unreal Engine for Architects**
 
 Introductory workshop on Unreal Engine for architectural visualisation.
 
-**Unreal Engine for AR/XR (D-Lab, K-F-M)** 
+**Unreal Engine for AR/XR** 
 
 Architectural visualisation workshop using AR in Unreal Engine.
 
