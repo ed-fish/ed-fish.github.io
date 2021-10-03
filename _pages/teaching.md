@@ -11,33 +11,25 @@ nav: true
 
 *Wrote and taught the introductory undergraduate module in JavaScript.*
 
+---
+
 ### Corporate
 
 #### Coding for Designers - (Sky Sports, Fluxx)
 
-*A course I developed to improve technical literacy of creative teams and improve dialogue with technical partners.* 
+A course I developed to improve technical literacy of creative teams and improve dialogue with technical partners.
 
 #### Unreal Engine for Architects (D-Lab, K-F-M)
 
-*Introductory workshop on Unreal Engine for architectural visualisation.*
+Introductory workshop on Unreal Engine for architectural visualisation.
 
 #### Unreal Engine for AR/XR (D-Lab, K-F-M) 
 
-*Architectural visualisation workshop using AR in Unreal Engine.*
+Architectural visualisation workshop using AR in Unreal Engine.
+
+--- 
 
 ### Community
 
-*Throughout 2017-2019 I taught a large number of coding, robotics, and games development courses as part of my work with a number of social enterprises and schools in London. These included introductory classes in Python, C#, Robotics (Arduino), Creative Coding (Processing, P5.js), front-end web development (HTML, CSS, JS), and augmented reality (Three.js, Unity).*
-
-
-
-
-
-
-
-
-
-
-
-
+Throughout 2017-2019 I taught a large number of coding, robotics, and games development courses as part of my work with a number of social enterprises and schools in London. These included introductory classes in Python, C#, Robotics (Arduino), Creative Coding (Processing, P5.js), front-end web development (HTML, CSS, JS), and augmented reality (Three.js, Unity)
 
