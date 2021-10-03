@@ -16,11 +16,12 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello 👋. I'm a second year PhD student at the University of Surrey UK, working in the field of machine learning for video understanding in collaboration with the British Film Institute. We're exploring how contextual information in videos can affect the way that we perceive situations and actions. Currently that involves a lot of experimentation with video attention models and new ways of combining multimodal spatio-temporal data. 
+Hello 👋. I'm a second year PhD student at the University of Surrey UK, working in the field of machine learning for video understanding in collaboration with the British Film Institute. 
 
-Before my PhD I worked as a creative technologist and educator, working with companies and institutions such as [Foster & Partners](https://www.fosterandpartners.com/), [Sky](https://www.sky.com/), [Grimshaw](https://grimshaw.global/), [University of East London](https://www.uel.ac.uk/), and [Mayor of London](https://www.london.gov.uk/) developing creative tech initiatives with communities under represented in the tech industry. In 2019 I was elected as a fellow of the Royal Society of the Arts [(FRSA)](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Arts) in recognition of my commitment to positive social change.  
+My research interests include *spatio-temporal contrastive learning, video attention transformers, causal reasoning, and multi-modal learning*
 
-I'm currently applying for internships for next summer (2022) and am especially interested in companies working on creative applications of ML or research groups specialising in video understanding.
+Prior to my PhD I worked as a creative technologist and educator, working with companies and institutions such as [Foster & Partners](https://www.fosterandpartners.com/), [Sky](https://www.sky.com/), [Grimshaw](https://grimshaw.global/), [University of East London](https://www.uel.ac.uk/), and [Mayor of London](https://www.london.gov.uk/) developing creative tech initiatives with communities under represented in the tech industry. In 2019 I was elected as a fellow of the Royal Society of the Arts [(FRSA)](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Arts) in recognition of my commitment to positive social change.  
 
-**I am currently working on this site so please check back later for updated projects, current CV, and Blog. Please Email me with any questions in the meantime.**
+I'm currently applying for internships for next summer (2022) as a research engineer or applied research scientist. 
+
 
