@@ -5,6 +5,7 @@ description: An interactive website for exploring embedding projections.
 img: /assets/img/semantic-embedding.jpg
 importance: 2
 category: work
+img: /assets/img/embed1.png
 ---
 
 Every project has a beautiful feature showcase page.
