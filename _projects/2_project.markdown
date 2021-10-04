@@ -12,7 +12,8 @@ An interactive visualisation of the results from our latest paper [Rethinking Ge
 
 Visit the page here https://semantic-video-visualiser-g6n4qaxte-ed-fish.vercel.app/#
 
-https://user-images.githubusercontent.com/60140216/135760049-aacc66e0-7683-4b58-8d0e-fe36687056de.mp4
+<video src="https://user-images.githubusercontent.com/60140216/135760049-aacc66e0-7683-4b58-8d0e-fe36687056de.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
