@@ -14,15 +14,30 @@ A visualisation of the results from our latest paper [Rethinking Genre Classific
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/embed1.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
+</div>
+<div class="caption">
+    T-SNE visualisation.
+</div>
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/embed2.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
+</div>
+<div class="caption">
+    UMAP visualisation.
+</div>
+</div>
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/embed3.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
-    Left. View embeddings in UMAP, Middle: TSNE, and Right: Rasterfy. 
+    Rasterfairy view
+    </div>
+    </div>
 
 Due to storage limitations, the videos are embedded via YouTube and the free tier has a very limited number of API calls per a day. You may need to check back the next day if all API requests have been made.
 
