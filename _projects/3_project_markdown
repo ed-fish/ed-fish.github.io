@@ -3,10 +3,10 @@
 layout: page
 title: Video Recommendation App
 description: Find a similar movie based only on its audio-visual content
-img: /assets/img/recommendation-app.png
+img: /assets/img/recommendation-app.PNG
 importance: 2
 category: work
-img: /assets/img/recommendation-app.png
+img: /assets/img/recommendation-app.PNG
 ---
 
 I was interested in trying out Spotify's ANNOY library for approximate nearest neighbour search - The "oh yeah!" part of the acronym is well deserved as it really is lightning fast. 
