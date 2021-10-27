@@ -1,1 +1,26 @@
 
+---
+layout: page
+title: Video Recommendation App
+description: Find a similar movie based only on its audio-visual content
+img: /assets/img/recommendation-app.png
+importance: 2
+category: work
+img: /assets/img/recommendation-app.png
+---
+
+I was interested in trying out Spotify's ANNOY library for approximate nearest neighbour search - The "oh yeah!" part of the acronym is well deserved as it really is lightning fast. 
+If you haven't heard of ANNOY - it's a method for finding k nearest neighbours using binary search 0(log(n)).  
+
+As an experiment I created a basic transformer attention network and used pre-trained convolutional networks to encode scenes from movie trailers.
+I used an I3D Kinetics network to get a temporal feature for every 16 frames and a ResNet to get spatial data for every scene. These are passed through the transformer encoder and then a linear layer 
+combines the spatial and temporal output features to create an embedding vecor. I then added a projection head for classification which will be removed after training. 
+
+I trained the model for 50 epochs on a genre classifcation task - actually achieving SOTA on the MMX dataset with 57% accuracy over 15 labels!
+To better understand the results I then collected the embedding vectors of the test set and setup this streamlit app to do super fast lookup with ANNOY. 
+
+Check it out [here](ttps://share.streamlit.io/ed-fish/trailer-recommendation-engine/main/app.py)
+
+
+
+
