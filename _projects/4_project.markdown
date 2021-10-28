@@ -13,10 +13,10 @@ I was commisioned to create an augmented reality application for an installation
 To achieve this I used the SLAM engine API [8thWall](https://www.8thwall.com/) which I would highly recommend. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'wall.jpeg' | relative_url }}" alt="" title="recommendation 1"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/wall.jpeg' | relative_url }}" alt="" title="recommendation 1"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'wall2.jpg' | relative_url }}" alt="" title="recommendation 2"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/wall2.jpg' | relative_url }}" alt="" title="recommendation 2"/>
     </div>
 </div>
 <div class="caption">
@@ -27,10 +27,8 @@ Here is the result working in the Royal Academy of Arts - it was a really fun pr
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
     <video width="320" height="240" autoplay>
-    <source src="{{ra.mp4 | relative_url }}" type="video/mp4">
+    <source src="{{assets/img/ra.mp4 | relative_url }}" type="video/mp4">
 Your browser does not support the video tag.
 </video>
     </div>
-
 </div>
-
