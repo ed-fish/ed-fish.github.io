@@ -40,16 +40,9 @@ Visit the page [here](https://semantic-video-visualiser-g6n4qaxte-ed-fish.vercel
     UMAP visualisation
     </div>
 
- <div class="row">
-   <video src="https://user-images.githubusercontent.com/60140216/135760049-aacc66e0-7683-4b58-8d0e-fe36687056de.mp4" controls="controls" style="max-width: 730px;">
-</video>
+Please note: there is an issue retrieving videos due to API request limitations - this will be fixed shortly. 
 
-   </div>
-    
-
-Due to storage limitations, the videos are embedded via YouTube and the free tier has a very limited number of API calls per a day. You may need to check back the next day if all API requests have been made.
-
-Checkout the code [here](https://github.com/ed-fish/semantic-video-visualiser)
+Checkout the code used to generate the visualisation [here](https://github.com/ed-fish/semantic-video-visualiser)
 
 
 
