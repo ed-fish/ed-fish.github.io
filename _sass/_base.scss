@@ -8,6 +8,10 @@ p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
 
+h1, h2, h3, h4, h5, h6{
+  font-family:monospace;
+}
+
 a, table.table a {
   color: var(--global-theme-color);
   &:hover {
@@ -258,7 +262,9 @@ footer.sticky-bottom {
   padding-bottom: 5rem;
   h1 {
     color: var(--global-theme-color);
-    font-size: 5rem;
+    font-size: 4rem;
+
+    font-family: monospace;
   }
 }
 
@@ -377,7 +383,7 @@ footer.sticky-bottom {
   h2 {
     margin-bottom: 1rem;
     span {
-      font-size: 1.5rem;
+      font-size: 1rem;
     }
   }
   h2.year {
