@@ -27,7 +27,7 @@ Here is the result working in the Royal Academy of Arts - it was a really fun pr
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
     <video width="320" height="240" autoplay>
-    <source src="{{assets/img/ra.mp4 | relative_url }}" type="video/mp4">
+    <source src="{{'assets/img/ra.mp4' | relative_url }}" type="video/mp4">
 Your browser does not support the video tag.
 </video>
     </div>
