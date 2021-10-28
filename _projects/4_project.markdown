@@ -1,11 +1,11 @@
 ---
 layout: page
 title: AR Wall at the Royal Academy of Arts
-description: Find a similar movie based only on its audio-visual content
+description: Augmented Reality Installation Commision 
 img: /assets/img/recommendation-app.PNG
 importance: 2
 category: work
-img: /assets/img/recommendation-app.PNG
+img: /assets/img/wall2.jpg
 ---
 
 I was commisioned to create an augmented reality application for an installation at the Royal Academy of Arts on behalf of an architectural firm. A constraint was that the application should be hosted on a webpage so that users would not need to download anything. 
