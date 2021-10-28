@@ -47,7 +47,7 @@ Architectural visualisation workshop using Augmented Reality in Unreal Engine. T
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ar1.jpg' | relative_url }}" alt="" title="coding for architects workshop"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ar3.jpg' | relative_url }}" alt="" title="coding for architects workshop"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/ar2.jpg' | relative_url }}" alt="" title="coding for architects workshop"/>
