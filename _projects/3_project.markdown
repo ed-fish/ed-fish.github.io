@@ -12,10 +12,10 @@ A very basic video recommendation application I created to try out both Spotify'
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/recommendation-app-2.jpg' | relative_url }}" alt="" title="recommendation 1"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/recommendation-app-2.png' | relative_url }}" alt="" title="recommendation 1"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/recommendation-app-3.jpg' | relative_url }}" alt="" title="recommendation 2"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/recommendation-app-3.png' | relative_url }}" alt="" title="recommendation 2"/>
     </div>
 </div>
 <div class="caption">
@@ -25,7 +25,7 @@ A very basic video recommendation application I created to try out both Spotify'
 If you haven't heard of ANNOY - it's a library for finding k nearest neighbours using binary search 0(log n).   
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="https://erikbern.com/assets/2015/09/heap-pos-1024x793.png" alt="" title="annoy hyperplane/>
+        <img class="img-fluid rounded z-depth-1" src="https://erikbern.com/assets/2015/09/heap-pos-1024x793.png" alt="" title="annoy hyperplane"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="https://camo.githubusercontent.com/a056535a8490b4b1aa933808e77207276235a209e97a980119d3e438897e1d36/68747470733a2f2f7261772e6769746875622e636f6d2f73706f746966792f616e6e6f792f6d61737465722f616e6e2e706e67" alt="" title="annoy hyperplane"/>

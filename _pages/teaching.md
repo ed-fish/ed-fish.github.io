@@ -71,5 +71,4 @@ Throughout 2017-2019 I taught a large number of coding, robotics, and games deve
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/robotics2.jpg' | relative_url }}" alt="" title="coding for robotics workshop"/>
     </div>
 </div>
-</div>
 
