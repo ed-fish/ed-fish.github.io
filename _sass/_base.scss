@@ -334,6 +334,11 @@ footer.sticky-bottom {
     }
   }
 
+  h2{
+    font-size:0.6rem;
+
+  }
+
   .card {
     img {
       width: 100%;
@@ -354,7 +359,6 @@ footer.sticky-bottom {
   }
 
   .grid-item {
-    width: 25%;
     margin-bottom: 10px;
   }
 
@@ -383,7 +387,7 @@ footer.sticky-bottom {
   h2 {
     margin-bottom: 1rem;
     span {
-      font-size: 0.9rem;
+      font-size: 0.5rem;
     }
   }
   h2.year {
