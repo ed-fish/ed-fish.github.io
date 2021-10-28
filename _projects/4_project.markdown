@@ -26,7 +26,7 @@ To achieve this I used the SLAM engine API [8thWall](https://www.8thwall.com/) w
 Here is the result working in the Royal Academy of Arts - it was a really fun project which really challenged me as I only had one week to create the visualisation. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-    <video width="320" height="240" autoplay>
+    <video autoplay>
     <source src="{{'assets/img/ra.mp4' | relative_url }}" type="video/mp4">
 Your browser does not support the video tag.
 </video>
