@@ -8,7 +8,7 @@ category: work
 img: /assets/img/recommendation-app.PNG
 ---
 
-A very basic video recommendation application I created to try out both Spotify's ANNOY library for approximate nearest neighbour search and the streamlit application. 
+A very basic video recommendation application I created to try out both Spotify's ANNOY library for approximate nearest neighbour search and StreamLit. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
