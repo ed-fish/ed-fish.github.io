@@ -13,9 +13,6 @@ I was commisioned to create an augmented reality application for an installation
 To achieve this I used the SLAM engine API [8thWall](https://www.8thwall.com/) which I would highly recommend. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/wall.jpeg' | relative_url }}" alt="" title="recommendation 1"/>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/wall2.jpg' | relative_url }}" alt="" title="recommendation 2"/>
     </div>
 </div>
@@ -25,10 +22,11 @@ To achieve this I used the SLAM engine API [8thWall](https://www.8thwall.com/) w
 
 Here is the result working in the Royal Academy of Arts - it was a really fun project which really challenged me as I only had one week to create the visualisation. 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-    <video autoplay>
-    <source src="{{'assets/img/ra.mp4' | relative_url }}" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-    </div>
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="{{'assets/img/ra.mp4' | relative_url }}"></iframe>
 </div>
+</div>
+
+
+
+
