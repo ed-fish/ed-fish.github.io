@@ -13,7 +13,7 @@ I was commisioned to create an augmented reality application for an installation
 To achieve this I used the SLAM engine API [8thWall](https://www.8thwall.com/) which I would highly recommend. 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ 'assets/img/wall2.jpg' | relative_url }}" alt="" title="recommendation 2"/>
+        <img class="img-fluid rounded z-depth-1" style="max-width:50%;" src="{{ 'assets/img/wall2.jpg' | relative_url }}" alt="" title="recommendation 2"/>
     </div>
 </div>
 <div class="caption">
