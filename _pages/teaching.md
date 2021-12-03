@@ -35,15 +35,15 @@ Following the workshop, teams reported improved communication with developers, a
     Designers using P5.js to learn basic syntax of JavaScript and create some digital art. 
 </div>
 
-**Unreal Engine for Architecture - D-Lab**
+**Unity for Architecture - D-Lab**
 November 2019
 
-Introductory workshop on Unreal Engine for architectural visualisation. Included steps on importing SketchUp and Rhino models into Unity and how to add more realistic materials and lighting. After the course, the participants were able to create engaging interactive models for their clients to explore. 
+Introductory workshop on Unity for architectural visualisation. Included steps on importing SketchUp and Rhino models into Unity and how to add more realistic materials and lighting. After the course, the participants were able to create engaging interactive models for their clients to explore. 
 
-**Unreal Engine for AR/XR** 
+**Unity for AR/XR** 
 November 2019
 
-Architectural visualisation workshop using Augmented Reality in Unreal Engine. The course covered how to import models to Unity and how to make collaborative design tools using augmented reality. Following the course, participants were able to generate AR 3D models which they could adjust in real time over a collaborative AR application. It also enabled clients to download an application to view the model at their leisure. 
+Architectural visualisation workshop using Augmented Reality in Unity Engine. The course covered how to import models to Unity and how to make collaborative design tools using augmented reality. Following the course, participants were able to generate AR 3D models which they could adjust in real time over a collaborative AR application. It also enabled clients to download an application to view the model at their leisure. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
