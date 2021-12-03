@@ -1,10 +1,13 @@
+---
 layout: page
 title: AR Experiments
-description: Some webAR experiments.
-importance: 4
+description: Experimenting with WebXR
+img: /assets/img/bee.png
+importance: 2
 category: work
-img: /assets/img/bee.jpg
+img: /assets/img/bee.png
 ---
+
 
 I was interested in the capabilities of AR in the browser so wrote a couple of experiments using the webXR framework 8thWall. 
 
