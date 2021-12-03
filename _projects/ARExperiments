@@ -18,6 +18,6 @@ Ever have one of those days when you want to throw cats at your computer? Well n
 Simulate the summer with BeeAR!
 <div class="row">
 <div class="embed-responsive embed-responsive-1by1">
-  <iframe class="embed-responsive-item" src="{{'assets/img/bee.mp4' | relative_url }}"></iframe>
+  <iframe class="embed-responsive-item" src="{{'assets/img/bees.mp4' | relative_url }}"></iframe>
 </div>
 </div>
