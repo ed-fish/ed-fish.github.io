@@ -28,6 +28,6 @@ My background is a little unconventional - I went to university to study violin 
 
 Excited by advances in Computer Vision and with the goal of moving into software enginnering and research I decided to start a PhD. 
 
-I am currently applying for intenships for Spring and Summer 2022. If you are looking for a super motivated software engineer with experience in machine learning please get in touch. 
+I am currently applying for internships for Spring and Summer 2022. If you are looking for a super motivated software engineer with experience in machine learning and creative technology please get in touch. 
 
 
