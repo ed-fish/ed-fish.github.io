@@ -5,7 +5,6 @@ title: teaching
 description: Teaching history
 nav: true
 ---
-
 Prior to my PhD I worked in a number of educational roles teaching programming to school children, designers, and undergraduates. 
 
 #### Academic
