@@ -8,7 +8,7 @@ category: work
 img: /assets/img/embed1.PNG
 ---
 
-An interactive visualisation of the results from our latest paper [Rethinking Genre Classification With Fine Grained Semantic Clustering](https://ieeexplore.ieee.org/document/9506751). The website features both UMAP and T-SNE projections of the self-supervised fine-grained embedding space generated from the model. 
+Another experiment where I've applied my research to a real world application. This time I took embeddings generated from my paper: [Rethinking Genre Classification With Fine Grained Semantic Clustering](https://ieeexplore.ieee.org/document/9506751) and built an application for feature projection and exploration. The website features both UMAP and T-SNE projections of the self-supervised fine-grained embedding space generated from the model and also some additional cool features such as selecting videos of specific genres and dates. 
 
 Visit the page [here](https://semantic-video-visualiser-g6n4qaxte-ed-fish.vercel.app/#)
 
@@ -40,9 +40,9 @@ Visit the page [here](https://semantic-video-visualiser-g6n4qaxte-ed-fish.vercel
     UMAP visualisation
     </div>
 
-Please note: there is an issue retrieving videos due to API request limitations - this will be fixed shortly. 
+Please note: there is a small bug where you have to select a video twice for the video to load correctly because of API request limitations. 
 
-Checkout the code used to generate the visualisation [here](https://github.com/ed-fish/semantic-video-visualiser)
+If you'd like to edit the code for your own embeddings you can find the code [here](https://github.com/ed-fish/semantic-video-visualiser)
 
 
 
