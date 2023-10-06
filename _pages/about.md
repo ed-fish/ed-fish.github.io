@@ -13,7 +13,7 @@ profile:
     <p>Guildford, GU2 7XH</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -21,7 +21,7 @@ Hello there! 👋
 
 I'm a PhD candidate and research associate at the University of Surrey's Innovative Media Lab, where I specialize in multi-modal video understanding and efficient ML.
 
-My recent contributions include publications at BMVC, ICIP, and Interspeech with work on video classifciation, action recogntion, temporal action localization, and efficient video processing. 
+My recent contributions include publications at BMVC, ICIP, and Interspeech with work on video classification, action recogntion, temporal action localization, and efficient video processing. 
 
 I recently returned from a research internship at Samsung Research UK's Advanced Research Team, where I explored quantization, explainable AI, and speech recognition. A highlight of my work there was my work on the personalized quantization of foundation ASR models which led to several pending patents.
 
