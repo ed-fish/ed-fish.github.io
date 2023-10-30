@@ -13,7 +13,7 @@ profile:
     <p>Guildford, GU2 7XH</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -21,9 +21,9 @@ Hello there! 👋
 
 I'm a PhD candidate and research associate at the University of Surrey's Innovative Media Lab, where I specialize in multi-modal video understanding and efficient ML.
 
-My recent contributions include publications at BMVC, ICIP, and Interspeech with work on video classification, action recogntion, temporal action localization, and efficient video processing. 
+My recent contributions include publications at NeurIPS, Interspeech, BMVC, and ICIP with work on video classification, action recogntion, ASR, quantization, temporal action localization, and efficient video processing. 
 
-I recently returned from a research internship at Samsung Research UK's Advanced Research Team, where I explored quantization, explainable AI, and speech recognition. A highlight of my work there was my work on the personalized quantization of foundation ASR models which led to several pending patents.
+I recently returned from a research internship at Samsung Research UK's Advanced Research Team, where I explored quantization, explainable AI, and speech recognition. A highlight of my work there was my work on the personalized quantization of foundation ASR models which led to several pending patents. 
 
 Before working in ML I worked as a creative technologist and educator, working with companies and institutions such as [Foster & Partners](https://www.fosterandpartners.com/), [Sky](https://www.sky.com/), [Grimshaw](https://grimshaw.global/), [University of East London](https://www.uel.ac.uk/), and [Mayor of London](https://www.london.gov.uk/) helping to develop creative tech initiatives to get more young people interested in programming. In 2019 I was elected as a fellow of the Royal Society of the Arts [(FRSA)](https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Society_of_Arts) in recognition of my commitment to positive social change.
 
