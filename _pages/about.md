@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description:  PhD Student in Machine Learning at the University of Surrey, UK.
+description:  Research Fellow in Computer Vision at CVSSP, UK
 
 profile:
   align: right
