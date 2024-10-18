@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Teaching history
-nav: true
+nav: false
 ---
 Prior to my PhD I worked in a number of educational roles teaching programming to school children, designers, and undergraduates. 
 
