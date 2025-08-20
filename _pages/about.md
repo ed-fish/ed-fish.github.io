@@ -91,5 +91,5 @@ This is a selection of my recent work. For a complete list, please see my [publi
 ---
 
 <p style="font-size: 0.8em; color: #666;">
-This website is built with the <a href="https://github.com/academicpages/academicpages.github.io" target="_blank" rel="noopener">Academic Pages</a> template and hosted on GitHub Pages.
+  My chinese name is 费埃德 and My BSL sign name is Fish (thumb to chin variant)
 </p>
