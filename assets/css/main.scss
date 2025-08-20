@@ -7,6 +7,16 @@
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
+// 1. Define your desired monospace font stack.
+// The browser will try each font from left to right.
+$monospace: "Roboto Mono", "Consolas", "Menlo", "Courier New", monospace;
+
+// 2. Override the theme's default font to use your new monospace font.
+$global-font-family: $monospace;
+
+// 3. Override the theme's base font size.
+// The default is 16px. Change 14px to whatever size you prefer.
+$base-font-size: 14px;
 
 @import
     "vendor/breakpoint/breakpoint",
