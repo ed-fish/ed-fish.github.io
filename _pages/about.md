@@ -9,11 +9,11 @@ redirect_from:
 
 Hello there! 👋
 
-I'm Ed Fish, a Senior Research Fellow at the Centre for Vision, Speech and Signal Processing (CVSSP) at the University of Surrey, where I work on computer vision for accessibility with [Professor Richard Bowden](https://www.surrey.ac.uk/people/richard-bowden) in the Cognitive Vision Group.
+I'm Ed, a Senior Research Fellow at the Centre for Vision, Speech and Signal Processing (CVSSP) at the University of Surrey, where I work on computer vision for accessibility with [Professor Richard Bowden](https://www.surrey.ac.uk/people/richard-bowden) in the Cognitive Vision Group.
 
-I recently completed my PhD in Efficient Multi-Modal Video Understanding, supervised by Dr. Andrew Gilbert. Currently I am focussed on applied research in Automated Sign Language Translation as part of the EPSRC project "Sign GPT" alongside work on AI for efficient Sign Language Annotation funded by Google.org.
+I recently completed my PhD in Efficient Multi-Modal Video Understanding, supervised by [Dr. Andrew Gilbert](https://www.surrey.ac.uk/people/andrew-gilbert). Currently I am focussed on research in Automated Sign Language Translation as part of the EPSRC project [**Sign GPT**](https://www.bbc.co.uk/news/articles/c4g9rd4g8w2o) alongside work on AI for efficient Sign Language Annotation funded by Google.org.
 
-If you are interested in a PhD in our lab, and are looking for a supervisor  I would be happy to chat with you about opportunities.
+If you are interested in a PhD in a similar area, and are looking for a supervisor please get in touch for an informal chat. 
 
 You can find my [publications](/publications/) and [CV](/cv/) here.
 
@@ -36,7 +36,7 @@ You can find my [publications](/publications/) and [CV](/cv/) here.
 **[Karahan Şahin](https://github.com/karahan-sahin)**: "Unified representations for Sign Language Translation and Production" (Co-Supervisor with Prof. Richard Bowden)
 
 
-## 📝 Selected Publications
+## 📝 2025 Publications
 
 This is a selection of my recent work. For a complete list, please see my [publications page](/publications/).
 
@@ -49,7 +49,7 @@ This is a selection of my recent work. For a complete list, please see my [publi
       <h3 class="archive__item-title" itemprop="headline">
         <a href="/publications/2025-geo-sign">Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically-Aware Sign-Language Translation</a>
       </h3>
-      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, [Author 2], [Author 3]</p>
+      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, R. Bowden</p>
       <p class="archive__item-excerpt" itemprop="description">Our pose-only method beats state-of-the-art pixel approaches by injecting hierarchical structure into a language model using hyperbolic geometry, setting new records on the CSL-Daily benchmark.</p>
     </div>
   </article>
@@ -62,9 +62,9 @@ This is a selection of my recent work. For a complete list, please see my [publi
     </div>
     <div class="archive__item-content">
       <h3 class="archive__item-title" itemprop="headline">
-        <a href="/publications/2025-vallr">VALLR: Visual ASR Language Model for Lip Reading</a>
+        <a href="/publications/2025-vallr">**(ICCV 25)** VALLR: Visual ASR Language Model for Lip Reading</a>
       </h3>
-      <p class="archive__item-meta">Authors: [Author 1], <strong>E. Fish</strong>, [Author 3]. **Accepted to ICCV 2025!**</p>
+      <p class="archive__item-meta">Authors: M. Thomas, <strong>E. Fish</strong>, R. Bowden. **Accepted to ICCV 2025!**</p>
       <p class="archive__item-excerpt" itemprop="description">Achieves state-of-the-art results in lip reading with 99% less training data by deconstructing the problem into phoneme recognition and sentence reconstruction.</p>
     </div>
   </article>
@@ -73,13 +73,13 @@ This is a selection of my recent work. For a complete list, please see my [publi
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="archive__item-thumb">
-      <a href="/publications/2025-plot-tal"><img src="/images/plottal-thumb.jpg" alt="Thumbnail for PLOT TAL paper"></a>
+      <a href="/publications/2025-plot-tal"><img src="/images/plot-tal.png" alt="Thumbnail for PLOT TAL paper"></a>
     </div>
     <div class="archive__item-content">
       <h3 class="archive__item-title" itemprop="headline">
-        <a href="/publications/2025-plot-tal">PLOT TAL: Prompt Learning with Optimal Transport for Few Shot Temporal Action Localization</a>
+        <a href="/publications/2025-plot-tal">**(ICCVW 25)** PLOT TAL: Prompt Learning with Optimal Transport for Few Shot Temporal Action Localization</a>
       </h3>
-      <p class="archive__item-meta">Authors: [Author 1], [Author 2], <strong>E. Fish</strong>. **Accepted to ICCV (CLVL Workshop) 2025!**</p>
+      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, A. Gilbert.**</p>
       <p class="archive__item-excerpt" itemprop="description">A novel approach for few-shot temporal action localization, leveraging prompt learning and optimal transport.</p>
     </div>
   </article>
