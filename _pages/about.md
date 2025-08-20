@@ -62,9 +62,10 @@ This is a selection of my recent work. For a complete list, please see my [publi
     </div>
     <div class="archive__item-content">
       <h3 class="archive__item-title" itemprop="headline">
-        <a href="/publications/2025-vallr">**(ICCV 25)** VALLR: Visual ASR Language Model for Lip Reading</a>
+        <a href="/publications/2025-vallr">VALLR: Visual ASR Language Model for Lip Reading</a>
       </h3>
-      <p class="archive__item-meta">Authors: M. Thomas, <strong>E. Fish</strong>, R. Bowden. **Accepted to ICCV 2025!**</p>
+      <p class="archive__item-meta"><strong>ICCV 2025</strong></p>
+      <p class="archive__item-meta">Authors: M. Thomas, <strong>E. Fish</strong>, R. Bowden.</p>
       <p class="archive__item-excerpt" itemprop="description">Achieves state-of-the-art results in lip reading with 99% less training data by deconstructing the problem into phoneme recognition and sentence reconstruction.</p>
     </div>
   </article>
@@ -77,9 +78,11 @@ This is a selection of my recent work. For a complete list, please see my [publi
     </div>
     <div class="archive__item-content">
       <h3 class="archive__item-title" itemprop="headline">
-        <a href="/publications/2025-plot-tal">**(ICCVW 25)** PLOT TAL: Prompt Learning with Optimal Transport for Few Shot Temporal Action Localization</a>
+        <a href="/publications/2025-plot-tal">PLOT TAL: Prompt Learning with Optimal Transport for Few Shot Temporal Action Localization</a>
       </h3>
-      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, A. Gilbert.**</p>
+      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, A. Gilbert.</p>
+        <p class="archive__item-meta"><strong>ICCV 2025</strong> (CLVL Workshop) </p>
+
       <p class="archive__item-excerpt" itemprop="description">A novel approach for few-shot temporal action localization, leveraging prompt learning and optimal transport.</p>
     </div>
   </article>
@@ -91,5 +94,5 @@ This is a selection of my recent work. For a complete list, please see my [publi
 ---
 
 <p style="font-size: 0.8em; color: #666;">
-  My chinese name is 费埃德 and My BSL sign name is Fish (thumb to chin variant)
+  My chinese name is 费埃德 and my BSL sign name is Fish (thumb to chin variant).
 </p>
