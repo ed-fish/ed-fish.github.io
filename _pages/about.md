@@ -43,7 +43,7 @@ This is a selection of my recent work. For a complete list, please see my [publi
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="archive__item-thumb">
-      <a href="/publications/2025-geo-sign"><img src="/images/geo-sign-thumb.jpg" alt="Thumbnail for Geo-Sign paper"></a>
+      <a href="/publications/2025-geo-sign"><img src="/images/geosign.png" alt="Thumbnail for Geo-Sign paper"></a>
     </div>
     <div class="archive__item-content">
       <h3 class="archive__item-title" itemprop="headline">
@@ -58,7 +58,7 @@ This is a selection of my recent work. For a complete list, please see my [publi
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="archive__item-thumb">
-      <a href="/publications/2025-vallr"><img src="/images/vallr-thumb.jpg" alt="Thumbnail for VALLR paper on lip reading"></a>
+      <a href="/publications/2025-vallr"><img src="/images/vallr.png" alt="Thumbnail for VALLR paper on lip reading"></a>
     </div>
     <div class="archive__item-content">
       <h3 class="archive__item-title" itemprop="headline">
