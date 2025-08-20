@@ -1,22 +1,23 @@
 ---
 ---
 
-/*
- * This file controls what is imported from /_sass
- *
- * Note that the files are processed in the order they are imported, so they are partly
-   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
- */
-// 1. Define your desired monospace font stack.
-// The browser will try each font from left to right.
-$monospace: "Roboto Mono", "Consolas", "Menlo", "Courier New", monospace;
+// 1. Define your font stacks
+$noto-sans: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$space-mono: "Space Mono", "Courier New", monospace;
 
-// 2. Override the theme's default font to use your new monospace font.
-$global-font-family: $monospace;
+// 2. Assign the fonts
+// Use Noto Sans for all regular body text
+$global-font-family: $noto-sans;
 
-// 3. Override the theme's base font size.
-// The default is 16px. Change 14px to whatever size you prefer.
-$base-font-size: 14px;
+// Use Space Mono for all headings (h1, h2, h3, etc.)
+$headings-font-family: $space-mono;
+
+// 3. Set the font weight for the body text
+// 'Thin' is 100, 'Light' is 300, 'Regular' is 400.
+// We'll use 300 as it's thin but still very readable for content.
+$base-font-weight: 200;
+
+/* --- End of Custom Font Settings --- */
 
 @import
     "vendor/breakpoint/breakpoint",
