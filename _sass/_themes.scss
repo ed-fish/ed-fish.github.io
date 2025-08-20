@@ -3,20 +3,20 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size               : 12;
+$doc-font-size               : 10;
 
 /* Paragraph indention */
 $paragraph-indent            : false; // true, false (default)
 $indent-var                  : 1.3em;
 
 /* System typefaces */
-$serif                       : Georgia, Times, serif;
 /* --- CUSTOM FONTS APPLIED HERE --- */
 $sans-serif                  : "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$serif                       : $sans-serif; /* Force serif elements to use Noto Sans */
 $monospace                   : "Space Mono", "Courier New", monospace;
 
 /* Sans serif typefaces */
-$sans-serif-narrow           : $sans-serif; /* THIS LINE FIXES THE BUILD ERROR */
+$sans-serif-narrow           : $sans-serif;
 $helvetica                   : Helvetica, "Helvetica Neue", Arial, sans-serif;
 
 /* Serif typefaces */
@@ -36,10 +36,12 @@ $type-size-6                 : 0.75em;   // ~12px
 $type-size-7                 : 0.6875em; // ~11px
 $type-size-8                 : 0.625em;  // ~10px
 
+/* --- FINAL FONT WEIGHT AND SPACING SETTINGS --- */
 $global-font-family          : $sans-serif; /* Use Noto Sans for body */
 $header-font-family          : $monospace;  /* Use Space Mono for headers */
-$caption-font-family         : $serif;
-
+$caption-font-family         : $serif;      /* This now correctly points to Noto Sans */
+$base-font-weight            : 200;        /* Sets Noto Sans to a 'fine' or 'extra-light' weight */
+$global-letter-spacing       : 0.5px;      /* Adds a small amount of space between letters */
 
 @include breakpoint-set("to ems", true);
 
