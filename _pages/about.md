@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ed Fish - Senior Research Fellow in Computer Vision"
+title: "Edward Fish, PhD"
 author_profile: true
 redirect_from: 
   - /about/
@@ -52,8 +52,9 @@ You can find my [publications](/publications/) and [CV](/cv/) here.
 
 ## Current PhD Students
 
-Marshall Thomas: "Integrating Non-Manual Features for Robust Sign Language Translation" (Co-Supervisor with Prof. Richard Bowden)
-Karahan Şahin: "Unified representations for Sign Language Translation and Production" (Co-Supervisor with Prof. Richard Bowden)
+**Marshall Thomas**: "Integrating Non-Manual Features for Robust Sign Language Translation" (Co-Supervisor with Prof. Richard Bowden)
+
+**[Karahan Şahin](https://github.com/karahan-sahin)**: "Unified representations for Sign Language Translation and Production" (Co-Supervisor with Prof. Richard Bowden)
 
 
 ## 📝 Selected Publications
