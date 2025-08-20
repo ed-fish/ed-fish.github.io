@@ -7,20 +7,23 @@
    ========================================================================== */
 
 /* Used to set the size for <em> */
-$doc-font-size              : 16;
+$doc-font-size              : 12;
 
 /* Paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* System typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$serif                       : Georgia, Times, serif;
+/* --- CUSTOM FONTS APPLIED HERE --- */
+$sans-serif                  : "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$monospace                   : "Space Mono", "Courier New", monospace;
 
-/* Sans serif typefaces */
-$sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+/* ... more lines ... */
+
+$global-font-family          : $sans-serif;
+$header-font-family          : $monospace; /* Use monospace (Space Mono) for headers */
+$caption-font-family         : $serif;
 
 /* Serif typefaces */
 $georgia                    : Georgia, serif;
@@ -38,10 +41,6 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
-
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
 
 /* ==========================================================================
    Breakpoints
