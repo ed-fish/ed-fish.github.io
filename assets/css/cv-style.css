@@ -246,3 +246,8 @@
 .cv-item-highlights li {
   font-size: 1em; /* Resets the font size to match the base body text */
 }
+
+/* Force all text within a CV item to the correct base size */
+.cv-item, .cv-item p, .cv-item li {
+  font-size: 0.8em !important;
+}
