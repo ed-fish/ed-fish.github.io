@@ -14,7 +14,7 @@ $global-font-family: $noto-sans;
 $headings-font-family: $space-mono;
 
 // 3. Set the font weight for the body text
-$base-font-weight: 200;
+$base-font-weight: 150;
 
 /* --- End of Custom Font Settings --- */
 
@@ -51,3 +51,26 @@ $base-font-weight: 200;
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+.list__item {
+  /* Adds a line and space between each publication */
+  border-bottom: 1px solid #f2f3f3; /* A light gray line */
+  padding-bottom: 1.5em;           /* Space below the line */
+  margin-bottom: 1.5em;            /* Space before the next item's line */
+}
+
+/* On the homepage, ensure image and text are always side-by-side */
+.archive__item {
+  display: flex;           /* Use flexbox for layout */
+  align-items: flex-start; /* Align items to the top */
+  gap: 1.5em;              /* Adds space between the image and the text */
+}
+
+.archive__item-thumb {
+  /* Makes the image thumbnail smaller and prevents it from shrinking */
+  flex-shrink: 0;
+  max-width: 120px;
+}
+
+
+
