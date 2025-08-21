@@ -89,6 +89,53 @@ This is a selection of my recent papers. For a complete list, please see my [pub
   </article>
 </div>
 
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="archive__item-thumb">
+      <a href="/publications/2025-plot-tal"><img src="/images/myqasr.png" alt="Thumbnail for PLOT TAL paper"></a>
+    </div>
+    <div class="archive__item-content">
+      <h3 class="archive__item-title" itemprop="headline">
+        <a href="/publications/2025-plot-tal">A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization</a>
+      </h3>
+      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, Umberto Michieli, Mete Ozay.</p> 
+        <p class="archive__item-meta"><strong>Interspeech 2023</strong></p>
+        <p class="archive__item-excerpt" itemprop="description">An algorithm for the personalized quantization of on-device ASR models. Work completed during my internship at Samsung Research. Patented in the US 2024 [here](https://patents.google.com/patent/US20240257800A1/en)</p>
+    </div>
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="archive__item-thumb">
+      <a href="/publications/2025-plot-tal"><img src="/images/myqasr.png" alt="Thumbnail for my-qasr paper"></a>
+    </div>
+    <div class="archive__item-content">
+      <h3 class="archive__item-title" itemprop="headline">
+        <a href="/publications/2025-myqasr">A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization</a>
+      </h3>
+      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, Umberto Michieli, Mete Ozay.</p> 
+        <p class="archive__item-meta"><strong>Interspeech 2023</strong></p>
+        <p class="archive__item-excerpt" itemprop="description">An algorithm for the personalized quantization of on-device ASR models. Work completed during my internship at Samsung Research. Patented in the US 2024 [here](https://patents.google.com/patent/US20240257800A1/en)</p>
+    </div>
+  </article>
+</div>
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="archive__item-thumb">
+      <a href="/publications/2025-plot-tal"><img src="/images/st-net.png" alt="Thumbnail for ST paper"></a>
+    </div>
+    <div class="archive__item-content">
+      <h3 class="archive__item-title" itemprop="headline">
+        <a href="/publications/2025-st-net">Two-Stream Tranformer Architecture for Long-Form Video Understanding</a>
+      </h3>
+      <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, Jon Weinbren, Andrew Gilbert.</p> 
+        <p class="archive__item-meta"><strong>BMVC 2023</strong></p>
+        <p class="archive__item-excerpt" itemprop="description">An efficient spatio-temporal video understanding architecture for tasks such as speaker identification, scene understanding, and genre classification</p>
+    </div>
+  </article>
+</div>
+
 ---
 
 
