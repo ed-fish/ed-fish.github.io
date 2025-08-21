@@ -45,11 +45,10 @@ $global-letter-spacing       : 0.5px;      /* Adds a small amount of space betwe
 
 @include breakpoint-set("to ems", true);
 
-$small                      : 500px !default;
-$medium                     : 668px !default;
-$medium-wide                : 700px !default;
-$large                      : 825px !default;
-$x-large                    : 980px !default;
+$small                       : 600px !default;
+$medium                      : 768px !default;
+$large                       : 1024px !default;
+$x-large                     : 1280px !default;
 
 /* ==========================================================================
    Grid
