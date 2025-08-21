@@ -95,5 +95,5 @@ This is a selection of my recent papers from this year. For a complete list, ple
 ---
 
 <p style="font-size: 0.8em; color: #666;">
-  My chinese name is 费埃德 and my BSL sign name is Fish (thumb to chin variant).
+  My chinese name is 费埃德 and my BSL sign name is 'Fish'. I am currently studying towards HSK2 and BSL2. I am also conversational in Italian (B1). 
 </p>
