@@ -52,6 +52,17 @@ $base-font-weight: 150;
     "vendor/magnific-popup/magnific-popup"
 ;
 
+/* --- Custom Styles for Publication List & Page Layout --- */
+
+/* 1. Add padding to the main content area ONLY on smaller screens to prevent it from touching the edges */
+@media (max-width: 57.8125em) {
+  .page__content {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+}
+
+/* 2. Style the publication list on the homepage */
 .list__item {
   /* Adds a line and space between each publication */
   border-bottom: 1px solid #f2f3f3; /* A light gray line */
@@ -59,4 +70,15 @@ $base-font-weight: 150;
   margin-bottom: 1.5em;            /* Space before the next item's line */
 }
 
+/* On the homepage, ensure image and text are always side-by-side */
+.archive__item {
+  display: flex;           /* Use flexbox for layout */
+  align-items: flex-start; /* Align items to the top */
+  gap: 1.5em;              /* Adds space between the image and the text */
+}
 
+.archive__item-thumb {
+  /* Makes the image thumbnail smaller and prevents it from shrinking */
+  flex-shrink: 0;
+  max-width: 80px; /* You can adjust this value */
+}
