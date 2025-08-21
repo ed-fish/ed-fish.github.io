@@ -51,12 +51,12 @@
 .page__content {
 
   h2 {
-    padding-bottom: 0.5em;
+    padding-bottom: 0.3em;
     border-bottom: 1px solid var(--global-border-color);
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 
   /* paragraph indents */
@@ -68,18 +68,6 @@
       & + p {
         text-indent: $indent-var;
         margin-top: -($indent-var);
-      }
-    }
-  }
-
-  a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
   }
