@@ -244,7 +244,7 @@
 .cv-item-subtitle,
 .cv-item-summary,
 .cv-item-highlights li {
-  font-size: 1em; /* Resets the font size to match the base body text */
+  font-size: 0.7em; /* Resets the font size to match the base body text */
 }
 
 /* Force all text within a CV item to the correct base size */
