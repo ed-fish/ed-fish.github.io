@@ -36,6 +36,8 @@ You can find my [publications](/publications/) and [CV](/cv/) here.
 
 **[Karahan Şahin](https://github.com/karahan-sahin)**: "Unified representations for Sign Language Translation and Production" (Co-Supervisor with Prof. Richard Bowden)
 
+---
+
 
 ## 📝 2025 Publications
 
@@ -83,17 +85,7 @@ This is a selection of my recent papers from this year. For a complete list, ple
       </h3>
       <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, A. Gilbert.</p>
         <p class="archive__item-meta"><strong>ICCV 2025</strong> (CLVL Workshop) </p>
-
-      <p class="archive__item-excerpt" itemprop="description">A novel approach for few-shot temporal action localization, leveraging prompt learning and optimal transport.</p>
+        <p class="archive__item-excerpt" itemprop="description">A novel approach for few-shot temporal action localization, leveraging prompt learning and optimal transport.</p>
     </div>
   </article>
 </div>
-
----
-
-
----
-
-<p style="font-size: 0.8em; color: #666;">
-  My chinese name is 费埃德 and my BSL sign name is 'Fish'. I am currently studying towards HSK2 and BSL2. I am also conversational in Italian (B1). 
-</p>
