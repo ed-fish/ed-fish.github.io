@@ -233,3 +233,16 @@
     background-color: transparent;
   }
 }
+
+/* Apply Space Mono to all section headers and item titles */
+.cv-section h2,
+.cv-item-title {
+  font-family: "Space Mono", "Courier New", monospace;
+}
+
+/* Ensure all descriptive text matches the main body font size */
+.cv-item-subtitle,
+.cv-item-summary,
+.cv-item-highlights li {
+  font-size: 1em; /* Resets the font size to match the base body text */
+}
