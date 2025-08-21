@@ -8,39 +8,38 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 ## Education
 * **Ph.D. in Computer Vision**, University of Surrey, 2024
   * *Thesis: Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning*
-* **MA in Creative Computing**, Goldsmiths, University of London, 2018
-* **B.Mus. (Hons) in  Music**, City University London, 2016
+* **M.A. in Creative Computing**, Goldsmiths, University of London, 2018
+* **B.Mus. (Hons) in Music**, City, University of London, 2016
 
 ---
 
 ## Work Experience
 
-* **May 2024 - Present: Senior Research Fellow**
-  * Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey
+* **Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey**
+  * *Senior Research Fellow*, May 2024 - Present
   * Working on computer vision for accessibility, with a focus on Automated Sign Language Translation.
 
-* **Feb 2024 - May 2024: Research Associate**
-  * King's College London
-  * Working on Responsible AI 
+* **King's College London**
+  * *Research Associate*, Feb 2024 - May 2024
+  * Working on Responsible AI.
 
-* **Jul 2023 - Feb 2024: Research Assistant**
-  * University of Surrey
+* **University of Surrey**
+  * *Research Assistant*, Jul 2023 - Feb 2024
   * Multi-modal video understanding and retrieval for the Horizon EU research program.
 
-* **Apr 2022 - Feb 2023: Research Engineer**
-  * Samsung Electronics, Advanced Research Team
+* **Samsung Electronics, Advanced Research Team**
+  * *Research Engineer*, Apr 2022 - Feb 2023
   * Research and development on personalised quantization for on-device ASR models.
 
-* **May 2018 - Oct 2020: Associate Lecturer**
-  * University of Surrey
-  * Undergraduate course - Introduction to Programming
+* **University of Surrey**
+  * *Associate Lecturer*, May 2018 - Oct 2020
+  * Taught undergraduate course: Introduction to Programming.
 
-* **Jan 2018 - Dec 2020: Program Director**
-  * D-Lab, Greater London
+* **D-Lab, Greater London**
+  * *Program Director*, Jan 2018 - Dec 2020
   * Strategy and program development for a social enterprise focused on access to creative industries.
 
 ---
