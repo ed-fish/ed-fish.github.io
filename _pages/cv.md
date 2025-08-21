@@ -40,7 +40,6 @@ redirect_from:
 * **Languages**: English (native), BSL (Level 1), HSK1, Italian (B1)
 * **Expertise**:
   * Computer Vision & Video Understanding
-  * Machine Learning & Deep Learning
   * Sign Language Translation
   * Action Recognition & Temporal Action Localization
   * Efficient AI (Quantization, Pruning)
@@ -52,7 +51,7 @@ redirect_from:
 * **Ph.D. in Computer Vision**, University of Surrey, 2024
   * *Thesis: Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning*
 * **B.Mus. (Hons) in Music**, City, University of London, 2018
-  * *Composition and Electronic Instrument Design* 
+  * *Composition*
 
 ---
 
@@ -61,12 +60,6 @@ redirect_from:
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
----
-  
-## Talks
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
 
 ---
   
