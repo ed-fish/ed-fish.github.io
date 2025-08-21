@@ -7,17 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-## Education
-* **Ph.D. in Computer Vision**, University of Surrey, 2024
-  * *Thesis: Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning*
-* **B.Mus. (Hons) in Music**, City, University of London, 2018
-  * *Composition and Electronic Instrument Design*
-
-
----
-
-## Work Experience
+## Work
 
 * **Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey**
   * *Senior Research Fellow*, May 2024 - Present
@@ -54,6 +44,15 @@ redirect_from:
   * Sign Language Translation
   * Action Recognition & Temporal Action Localization
   * Efficient AI (Quantization, Pruning)
+
+---
+
+{% include base_path %}
+## Education
+* **Ph.D. in Computer Vision**, University of Surrey, 2024
+  * *Thesis: Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning*
+* **B.Mus. (Hons) in Music**, City, University of London, 2018
+  * *Composition and Electronic Instrument Design* 
 
 ---
 
