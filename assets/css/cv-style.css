@@ -240,14 +240,13 @@
   font-family: "Space Mono", "Courier New", monospace;
 }
 
-/* Ensure all descriptive text matches the main body font size */
+/* --- CV Font Size Harmonization --- */
+
+/* Reset all main text elements to the base font size */
+.cv-item,
+.cv-item p,
+.cv-item li,
 .cv-item-subtitle,
 .cv-item-summary,
-.cv-item-highlights li {
-  font-size: 0.7em; /* Resets the font size to match the base body text */
-}
 
-/* Force all text within a CV item to the correct base size */
-.cv-item, .cv-item p, .cv-item li {
-  font-size: 0.8em !important;
-}
+
