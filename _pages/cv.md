@@ -11,8 +11,9 @@ redirect_from:
 ## Education
 * **Ph.D. in Computer Vision**, University of Surrey, 2024
   * *Thesis: Advancing Efficiency and Accessibility in Multimodal Video Understanding with Deep Learning*
-* **M.A. in Creative Computing**, Goldsmiths, University of London, 2018
-* **B.Mus. (Hons) in Music**, City, University of London, 2016
+* **B.Mus. (Hons) in Music**, City, University of London, 2018
+  * *Composition and Electronic Instrument Design*
+
 
 ---
 
@@ -20,15 +21,15 @@ redirect_from:
 
 * **Centre for Vision, Speech and Signal Processing (CVSSP), University of Surrey**
   * *Senior Research Fellow*, May 2024 - Present
-  * Working on computer vision for accessibility, with a focus on Automated Sign Language Translation.
+  * Working on computer vision for accessibility, with a focus on Automated Sign Language Translation. Funding from EPSRC and Google.org.
 
 * **King's College London**
   * *Research Associate*, Feb 2024 - May 2024
-  * Working on Responsible AI.
+  * Working on Responsible AI for RAI-UK.
 
 * **University of Surrey**
   * *Research Assistant*, Jul 2023 - Feb 2024
-  * Multi-modal video understanding and retrieval for the Horizon EU research program.
+  * Multi-modal video understanding and retrieval for the Horizon EU research program AI4Media.
 
 * **Samsung Electronics, Advanced Research Team**
   * *Research Engineer*, Apr 2022 - Feb 2023
