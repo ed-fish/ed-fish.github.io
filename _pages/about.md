@@ -37,9 +37,9 @@ You can find my [publications](/publications/) and [CV](/cv/) here.
 **[Karahan Şahin](https://github.com/karahan-sahin)**: "Unified representations for Sign Language Translation and Production" (Co-Supervisor with Prof. Richard Bowden)
 
 
-## 📝 Selected Publications
+## 📝 2025 Publications
 
-This is a selection of my recent papers. For a complete list, please see my [publications page](/publications/).
+This is a selection of my recent papers from this year. For a complete list, please see my [publications page](/publications/).
 
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
