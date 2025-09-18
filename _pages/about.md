@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋
-
-I'm Ed, a Senior Research Fellow at the Centre for Vision, Speech and Signal Processing (CVSSP) at the University of Surrey, where I work on computer vision for accessibility with [Professor Richard Bowden](https://www.surrey.ac.uk/people/richard-bowden) in the Cognitive Vision Group.
+👋 I'm Ed, a Senior Research Fellow at the Centre for Vision, Speech and Signal Processing (CVSSP) at the University of Surrey, where I work on computer vision for accessibility with [Professor Richard Bowden](https://www.surrey.ac.uk/people/richard-bowden) in the Cognitive Vision Group.
 
 I recently completed my PhD in Efficient Multi-Modal Video Understanding, supervised by [Dr. Andrew Gilbert](https://www.surrey.ac.uk/people/andrew-gilbert). Currently I am focussed on research in Automated Sign Language Translation as part of the EPSRC project [**Sign GPT**](https://www.bbc.co.uk/news/articles/c4g9rd4g8w2o) alongside work on AI for efficient Sign Language Annotation funded by Google.org.
 
