@@ -21,11 +21,11 @@ You can find my [publications](/publications/) and [CV](/cv/) here.
 
 ## 📢 News
 
-* **September 2025:** 🎉 Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation" is accepted to NeurIPS 2025! 🎉 
+* **September 2025:** 🎉 Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation" is accepted to NeurIPS 2025!
 * **August 2025:** I obtained my BSL 101-103 certification. Now studying towards level 2.
 * **August 2025:** I'm chairing the BMVA one day symposium on AI for Sign Language Translation, Production, and Linguistics on December 10th. Register to present or attend [here](https://www.bmva.org/meetings/25-12-10-Sign.html) We will announce keynotes soon. 
-* **July 2025:** 🎉 Our paper, "VALLR: Visual ASR Language Model for Lip Reading", is accepted to **ICCV 2025**! 🎉 
-* **July 2025:** 🎉 Our paper, "Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization", is accepted to **ICCV workshop - CLVL 2025**. 🎉 
+* **July 2025:** 🎉 Our paper, "VALLR: Visual ASR Language Model for Lip Reading", is accepted to **ICCV 2025**!
+* **July 2025:** 🎉 Our paper, "Prompt Learning with Optimal Transport for Few-Shot Temporal Action Localization", is accepted to **ICCV workshop - CLVL 2025**. 
 * **June 2025:** I'm at **CVPR 2025** co-chairing the Sign Language Recognition, Recognition, Translation, and Production (SLRTP) workshop. You can read our paper on the competition we ran [here](https://arxiv.org/abs/2508.06951)
 * **May 2025:** Code and paper for "Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation" is available online [here](https://github.com/ed-fish/geo-sign) (Under review 🤞)
 
