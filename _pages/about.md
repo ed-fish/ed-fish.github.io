@@ -53,6 +53,7 @@ This is a selection of my recent papers from this year. For a complete list, ple
       <h3 class="archive__item-title" itemprop="headline">
         <a href="/publications/2025-geo-sign">Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically-Aware Sign-Language Translation</a>
       </h3>
+        <p class="archive__item-meta"><strong>NeurIPS 2025</strong></p>
       <p class="archive__item-meta">Authors: <strong>E. Fish</strong>, R. Bowden</p>
       <p class="archive__item-excerpt" itemprop="description">Our pose-only method beats state-of-the-art pixel approaches by injecting hierarchical structure into a language model using hyperbolic geometry via a novel regulariser. </p>
     </div>
