@@ -5,7 +5,7 @@ category: preprint
 permalink: /publication/2025-geo-sign
 excerpt: 'This paper introduces Geo-Sign, a method that uses hyperbolic geometry to create more discriminative skeletal representations for Sign Language Translation, improving on SOTA methods while enhancing privacy and efficiency.'
 date: 2025-05-30
-venue: 'arXiv Preprint (Under Review)'
+venue: 'NeurIPS 2025'
 paperurl: 'https://arxiv.org/abs/2506.00129'
 codeurl: 'https://github.com/ed-fish/geo-sign'
 citation: 'Fish, E., & Bowden, R. (2025). &quot;Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation.&quot; <i>arXiv preprint arXiv:2506.00129</i>.'
