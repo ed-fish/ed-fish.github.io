@@ -18,7 +18,7 @@ You can find my [publications](/publications/) and [CV](/cv/) here.
 ---
 
 ## 📢 News
-
+* **November 2025:** Gave a talk at the BMVA Symposium on Multi-Modal Large Language Models at the British Computer Society London. You can watch the talk [here](https://www.youtube.com/watch?v=15tSGhkZ5xM&t=564s)
 * **September 2025:** 🎉 Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation" is accepted to NeurIPS 2025!
 * **August 2025:** I obtained my BSL 101-103 certification. Now studying towards level 2.
 * **August 2025:** I'm chairing the BMVA one day symposium on AI for Sign Language Translation, Production, and Linguistics on December 10th. Register to present or attend [here](https://www.bmva.org/meetings/25-12-10-Sign.html) We will announce keynotes soon. 
